@@ -1,7 +1,7 @@
 # Software-Engineering-project
  a Parking Garage application. This application manages a parking space for
 a configurable maximum number of vehicles. Each parking space (slot) defined with a dimension
-(width and depth) The application  handles the following functions:
+(width and depth) The application  handles the following functions: <br />
 ● Each vehicle shall be identified by a model name, unique identification number, Model year  
 and vehicle dimensions (vehicle width and depth). <br />  
 ● Park-in function that marks the arrival time of a vehicle if there is an available slot. The
