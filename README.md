@@ -2,11 +2,11 @@
  a Parking Garage application. This application manages a parking space for
 a configurable maximum number of vehicles. Each parking space (slot) defined with a dimension
 (width and depth) The application  handles the following functions:
-● Each vehicle shall be identified by a model name, unique identification number, Model year
-and vehicle dimensions (vehicle width and depth).
-● Park-in function that marks the arrival time of a vehicle if there is an available slot. The
+#● Each vehicle shall be identified by a model name, unique identification number, Model year  
+and vehicle dimensions (vehicle width and depth).  
+#● Park-in function that marks the arrival time of a vehicle if there is an available slot. The
 application shall capture such time automatically from the system.
-● During the park-in function the application shall pick a free slot based on the active slot
+#● During the park-in function the application shall pick a free slot based on the active slot
 configuration. There are two configurations (i) first come first served slots i.e., the park-in
 function will use the first free slot available from the parking garage slots. (ii) best-fit approach
 where you need to find the slot with the minimum dimension to hold the vehicle.
