@@ -19,3 +19,9 @@ garage at any given point in time. <br />
 ● Display the available parking slots <br />
 ● Enriched  with the capability to handle a set of exceptions that can happen
 during user interaction and through any other calculations. <br />
+
+done by:
+ ahmadtharwat
+ mohamedgaber353
+ TheNight1234
+ ahmedthecreator
